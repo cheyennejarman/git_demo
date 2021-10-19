@@ -51,7 +51,8 @@ abline(fit)
 # this code is to demo conflict on git
 conflict <- TRUE
 
-
+# Create a conflict
+Conflict <- TRUE   # it doesn't matter what this code is
 
 
 
