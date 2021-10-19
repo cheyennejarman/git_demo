@@ -1,3 +1,3 @@
-# coding-demo
+# git_demo
 
-hello is this thing on?
+using this forked code we are going to explore git's features.
